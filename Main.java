@@ -12,6 +12,8 @@ class Main {
         arr[i] = sc.nextInt();
     }
    Arrays obj = new Arrays();
+    //method calling for different methods in class Arrays.java 
+    // this is the main method for Arrays.java
     obj.FindMax(arr);
     obj.findMax2(arr);
     obj.sort(arr);
